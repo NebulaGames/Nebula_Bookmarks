@@ -1,0 +1,23 @@
+{
+
+    "description": "Open Nebula Bookmark Manager",
+    "manifest_version": 2,
+    "name": "open-nebula-bookmark-manager-button",
+    "version": "1.0",
+  
+    "permissions":[
+        "bookmarks","tabs","webRequest","webRequestBlocking"
+    ],
+
+    "background": {
+      "scripts": ["background.js"]
+    },
+   
+    "browser_action": {
+      "default_icon": {
+        "16": "icons/page-16.png",
+        "32": "icons/page-32.png"
+      }
+    }
+  
+  }

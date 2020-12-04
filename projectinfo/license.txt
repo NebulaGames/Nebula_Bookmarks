@@ -1,0 +1,18 @@
+START LICENSE
+
+Nebula Bookmarks source code, including all documentation and supporting files, is covered by the below license.  
+Permission is hereby granted, free of charge, to any person obtaining a copy of this source code and associated documentation files (known henceforth as the "Project"), to deal in the Project with the following limitations.
+
+-When distributing copies of the Project, the original source files must be included OR a document called source_project.txt must be included in the root folder containing the original location of this project.
+-Selling the project is prohibited without prior agreements, this includes all derivitives, clones, or any code used in this project.
+    -A default agreement can be assumed following the listed instructions below.
+        -10% of gross proceeds, over $100,000, are paid as royalties to IVolt, LLC on a monthy basis. 
+        -You must include a link to IVolt's website in your product help section.
+        -You must include a file called source_project.txt (see above for details on contents).
+-For Personal use, including corporate use, you are granted without limitation the rights to use, copy, and modify the code:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+END LICENSE
